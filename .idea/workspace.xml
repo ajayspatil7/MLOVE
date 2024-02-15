@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcab3703-abef-4d5b-9a86-6fe45396e535" name="Changes" comment="" />
+    <list default="true" id="fcab3703-abef-4d5b-9a86-6fe45396e535" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ClassNotebooks/gradDescentOpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataPreprocessing/Student__CO3_Activity_3_1_Loss_Function_.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/penguins_size.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testSets/CO3 Activity 3.3_final.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testSets/minMaxFromScratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataPreprocessing/Automobile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Automobile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataPreprocessing/Placement_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Placement_Data.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -36,6 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/ajay/PycharmProjects/MLove/DataPreprocessing&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -50,6 +63,7 @@
       <recent name="$PROJECT_DIR$/DataPreprocessing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Datasets" />
       <recent name="$PROJECT_DIR$/DataPreprocessing" />
     </key>
   </component>
@@ -93,6 +107,15 @@
       <workItem from="1706951466907" duration="48000" />
       <workItem from="1706982512228" duration="330000" />
       <workItem from="1706982885692" duration="7673000" />
+      <workItem from="1706992184961" duration="468000" />
+      <workItem from="1707073140158" duration="924000" />
+      <workItem from="1707194697415" duration="1185000" />
+      <workItem from="1707196049344" duration="1453000" />
+      <workItem from="1707286146782" duration="33000" />
+      <workItem from="1707372675555" duration="2161000" />
+      <workItem from="1707382189812" duration="13000" />
+      <workItem from="1707978175615" duration="1553000" />
+      <workItem from="1708020097087" duration="6942000" />
     </task>
     <servers />
   </component>
